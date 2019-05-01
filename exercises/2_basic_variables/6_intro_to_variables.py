@@ -20,10 +20,10 @@ called the "assignment operator". This operator is represented by an equals sign
 
 It probably makes more sense to see an example:
 
-variable = "Hello!"
+my_variable = "Hello!"
 
 ^ The example above shows us assignment in action. We use the "=" to assign the value of the string "Hello!"
-on the left hand side of the "=" to the reference my_variable on the right hand side of the "=".
+on the right hand side of the "=" to the reference my_variable on the left hand side of the "=".
 
 What does this mean? Well it means if we use the print function with our variable as the parameter
 - e.g. print(my_variable) - we should see the value of the variable output inside the console ("Hello!").
