@@ -74,10 +74,20 @@ Tricky but think about it and give it a go!
 
 if __name__ == "__main__":
     # part 1
-
+    my_number = 5
+    my_other_number = 17
+    print (my_number * my_other_number)
+    print(my_other_number - my_number)
+    print(my_other_number ** my_number)
+    print(my_number + my_number + my_other_number)
+    print(my_other_number // my_number)
+    print(my_other_number % my_number)
 
     # part 2
-
+    my_name = "Daniel"
+    my_age = "30"
+    my_colour = "blue"
+    print("my name is " + my_name + ", my age is "  + my_age + " and my favourite colour is " + my_colour)
 
     # part 3
     pass

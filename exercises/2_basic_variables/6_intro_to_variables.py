@@ -40,4 +40,8 @@ For this exercise I would like you to:
 what we will do in the next lesson!
 """
 if __name__ == "__main__":
-    pass
+    my_variable = "Hello_"
+    my_second_variable = "World!"
+    print(my_variable)
+    print(my_second_variable)
+    print(my_variable + my_second_variable)
