@@ -1,4 +1,4 @@
-# Exercise 5 - Conditionals and the boolean
+# Exercise 5 - Equality and the boolean
 
 # Often in programming languages we need to compare two or more values. We have already seen over the past few exercises
 # that we can handle different types of data in Python such as strings, integers and floats.

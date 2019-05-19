@@ -27,26 +27,20 @@
 
 if __name__ == "__main__":
     # 1.
-    print("dog")
     print("That was a string we printed to the screen!")
 
     # 2.
-    print(1)
     print("That was an integer we printed to the screen!")
 
     # 3.
-    print("1")
     print("But confusingly - that '1' is a string we just printed to the screen")
 
     # 4.
-    print(1 + 1)
     print("We added two integers together and printed the result to the screen!")
 
     # 5.
-    print("1" + "1")
     print("Look what happens when we add two strings together and print to the screen in comparison!")
 
     print("Lets see what happens when we try to add a string and an integer together.")
 
     # 6.
-    print(1 + "1")

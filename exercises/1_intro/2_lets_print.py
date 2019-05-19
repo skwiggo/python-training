@@ -20,12 +20,6 @@
 
 if __name__ == "__main__":
     # Implement some code here!
-
-    print("Hello world!")
-    print("My Name is TasteeMeet")
-    print("My age is 19")
-    print("I live in Inverkeithing")
-    print("My fave band is Hunter/Hope")
-    print("my fave curry is karahi")
+    pass
 
 

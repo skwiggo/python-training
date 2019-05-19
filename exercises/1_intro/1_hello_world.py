@@ -12,4 +12,3 @@
 if __name__ == "__main__":
     # implement some code here!
     pass
-    print("Hello world!")
